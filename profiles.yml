@@ -3,7 +3,7 @@ demo_project:
     dev:
       dbname: dev
       host: redshift-cluster-1.ckcob7ffwfjy.us-east-1.redshift.amazonaws.com
-      password: Shamjhana11
+      password: password
       port: 5439
       schema: dbt
       threads: 4
