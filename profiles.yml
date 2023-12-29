@@ -1,0 +1,12 @@
+demo_project:
+  outputs:
+    dev:
+      dbname: dev
+      host: redshift-cluster-1.ckcob7ffwfjy.us-east-1.redshift.amazonaws.com
+      password: Shamjhana11
+      port: 5439
+      schema: dbt
+      threads: 4
+      type: redshift
+      user: anishmachamasi
+  target: dev
